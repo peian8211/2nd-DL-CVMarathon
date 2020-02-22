@@ -1,0 +1,15 @@
+#gitignore
+
+#ignore mac .DS_Store
+.DS_Store
+
+#ignore .ipynb_checkpoints
+*.ipynb_checkpoints
+
+#ignore .png
+data/
+*.png
+
+#ignore pdf/samplecode/ans
+material/
+samplecode_and_ans
