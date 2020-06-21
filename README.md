@@ -3,7 +3,7 @@
 D001: OpenCV 簡介 + 顯示圖片  
 D002: Color presentation 介紹 (RGB, LAB, HSV)  
 D003: 顏色相關的預處理 (改變亮度, 色差)  
-D004: 以圖片為例做矩陣操作 (翻轉, 縮放, 平移)
+D004: 以圖片為例做矩陣操作 (翻轉, 縮放, 平移)  
 D005: 透過 OpenCV 做圖並顯示 (長方形, 圓形, 直線, 填色)  
 D006: affine transformation 概念與實作  
 D007: perspective transformation 概念與實作  
