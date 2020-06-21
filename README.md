@@ -21,7 +21,7 @@ D017: AlexNet
 D018: VGG16 and 19  
 D019: InceptionV1-V3  
 D020: ResNetV1-V2、InceptionV4、Inception-ResNet  
-D021: Transfer learning
+D021: Transfer learning  
 D022: Breaking Captchas with a CNN  
 ## 03-CNN 應用案例學習
 D023: Object detection原理  
@@ -46,7 +46,7 @@ D042: 人臉關鍵點-資料結構簡介
 D043: 人臉關鍵點-檢測網路架構  
 D044: 訓練人臉關鍵點檢測網路  
 D045: 人臉關鍵點應用  
-D046: Mobilenet
+D046: Mobilenet  
 D047: Ｍobilenetv2  
 D048: Tensorflow Object Detection API  
 ## 05-期末專題
